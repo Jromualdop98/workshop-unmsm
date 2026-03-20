@@ -1,4 +1,4 @@
-# 🌊 **Water Classification**
+# 🌊 **Water bodies detection workshop**
 
 ## 📌 **Description**
 
@@ -22,7 +22,7 @@ Scripts used in the workshop "Detection of water bodies using Remote Sensing in 
 
 ## 📂 **Scripts**
 
- ### [** 1. Introduction to Google Earth Engine**](./scripts/01_ImageCollection.js)
+ ### [**1. Introduction to Google Earth Engine**](./scripts/01_ImageCollection.js)
 
 In this script, we will:
 - Import Landsat images
@@ -35,7 +35,7 @@ In this script, we will:
 - Import feature collections (shapefiles)
 - Crop an image based on a feature
 
-### [** 2. Creation of high quality mosaics**](./scripts/02_MosaicQuality.js)
+### [**2. Creation of high quality mosaics**](./scripts/02_MosaicQuality.js)
 
 In this script, we will:
 - Create mosaics with reduced cloud cover using the Band Quality Assurance (BQA)
@@ -60,4 +60,4 @@ In this script, we will:
 
 ## 👤 Autor
 
-Joaquín Romualdo
+Joaquin Romualdo Peña
