@@ -22,7 +22,7 @@ Scripts used in the workshop "Detection of water bodies using Remote Sensing in 
 
 ## 📂 **Scripts**
 
-### **1. ImageCollection:** [01_ImageCollection](./scripts/01_ImageCollection.js)
+ [### **1. ImageCollection:**](./scripts/01_ImageCollection.js)
 
 In this script, we will:
 - Import Landsat images
