@@ -1,10 +1,10 @@
-🌊 Water Classification using Google Earth Engine
+🌊 #Water Classification using Google Earth Engine
 
-📌 Descripción
+📌 ##Descripción
 
 Este proyecto implementa un modelo de clasificación de cuerpos de agua usando Google Earth Engine.
 
-🧪 Metodología
+🧪 ##Metodología
 
 Probabilidad mensual
 
@@ -14,7 +14,7 @@ Pendiente
 
 Relleno de huecos (gap filling)
 
-📂 Estructura
+📂 ##Estructura
 Script	Función
 preprocessing.js	Preparación de datos
 classification.js	Clasificación principal
@@ -23,7 +23,7 @@ analysis.js	Análisis final
 📷 Resultados
 
 
-🚀 Uso
+🚀 ##Uso
 
 Abrir scripts en GEE
 
@@ -31,6 +31,6 @@ Ejecutar en orden
 
 Analizar resultados
 
-👤 Autor
+👤 ##Autor
 
 Joaquín Romualdo
