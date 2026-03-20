@@ -22,7 +22,7 @@ Scripts used in the workshop "Detection of water bodies using Remote Sensing in 
 
 ## 📂 **Scripts**
 
- [**1. Image Collection:**](./scripts/01_ImageCollection.js)
+ ### [** 1. Introduction to Google Earth Engine**](./scripts/01_ImageCollection.js)
 
 In this script, we will:
 - Import Landsat images
@@ -35,14 +35,14 @@ In this script, we will:
 - Import feature collections (shapefiles)
 - Crop an image based on a feature
 
-### **2. MosaicQuality:** [02_MosaicQuality](./scripts/02_MosaicQuality.js)
+### [** 2. Creation of high quality mosaics**](./scripts/02_MosaicQuality.js)
 
 In this script, we will:
 - Create mosaics with reduced cloud cover using the Band Quality Assurance (BQA)
 - Create mosaics with reduced cloud cover using the CloudScore function
 - Visualize the difference between both methods
 
-### **3. SpectralIndices:** [03_SpectralIndices](./scripts/03_SpectralIndices.js)
+### [**3. Identification of water bodies using Spectral Indices**](./scripts/03_SpectralIndices.js)
 
 In this script, we will:
 - Generate the NDWI for a Landsat 5-8 image
@@ -51,7 +51,7 @@ In this script, we will:
 - Test other spectral indices (MNDWI, NDMI)
 - Identify errors in the atmospheric correction of Landsat 8
 
-### **4. Endmembers:** [04_Endmembers](./scripts/04_Endmembers.js)
+### [**4. Identification of water bodies using endmembers**](./scripts/04_Endmembers.js)
 
 In this script, we will:
 - Identify bodies of water based on a methodology that involves endmembers and probabilities.
