@@ -4,7 +4,7 @@
 
 Este proyecto implementa un modelo de clasificación de cuerpos de agua usando Google Earth Engine.
 
-![Image](images/photo_workshop.png)
+![Image](images/photo_workshop.jpg)
 
 🧪 Metodología
 
