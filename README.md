@@ -1,4 +1,4 @@
-🌊 #Water Classification using Google Earth Engine
+# 🌊 **Water Classification using Google Earth Engine**
 
 📌 ##Descripción
 
